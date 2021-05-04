@@ -60,10 +60,10 @@ const text = 'Its you'
 
 const details =
     `Hi, this is ${names}
-    
+
 I know ${text}, and 
 Thanks you for joining my mailing list.
-    
+
 regards
 Mohi`
 console.log(details);
@@ -139,13 +139,13 @@ console.log(publish);
 
 
 
-// Exercise-4
-const priceRanges = [
-    { lebel: '$', tooltip: 'Inexpensive', minPerPerson: 0, maxPerPerson: 10 },
-    { lebel: '$$', tooltip: 'Moderate', minPerPerson: 11, maxPerPerson: 20 },
-    { lebel: '$$$', tooltip: 'Expensive', minPerPerson: 21, maxPerPerson: 50 }
-];
+// // Exercise-4
+// const priceRanges = [
+//     { lebel: '$', tooltip: 'Inexpensive', minPerPerson: 0, maxPerPerson: 10 },
+//     { lebel: '$$', tooltip: 'Moderate', minPerPerson: 11, maxPerPerson: 20 },
+//     { lebel: '$$$', tooltip: 'Expensive', minPerPerson: 21, maxPerPerson: 50 }
+// ];
 
-const restaurant = [
-    { averagePerPerson = 5 }
-];
+// const restaurant = [
+//     { averagePerPerson = 5 }
+// ];
